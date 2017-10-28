@@ -39,7 +39,7 @@
 
   /*<img src="images/kitty-5.png" alt="Kitty 5">/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
- [class^="kitty-5"]{
+ a[kitty-5]{
   position: absolute;
   z-index: 3;
   top: 217px;
